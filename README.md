@@ -37,14 +37,24 @@ src/utils - It consists of allm the utilities.
 The features being implemented in the application are:
 
 1)Logging-in : Only authenticated users can log-in.
-2)Dashboard - a beautiful dashboard with a side bar that allows users to navigate through the application and shows all the sales,bookings data,the check-ins and the occupancy rate. It also represents data visually in the form of beautiful charts.Also, displays bookings for the current day and allows the user to update the status of the booking.
+
+2)Dashboard - a beautiful dashboard with a side bar that allows users to navigate through the application and shows all the sales,bookings data,the check-ins and the occupancy rate.
+It also represents data visually in the form of beautiful charts.Also, displays bookings for the current day and allows the user to update the status of the booking.
+
 3)Checking,editing and filtering bookings : user can view all the bookings, filter them and edit their status.
+
 4)Checking,adding,deleting,editing and filtering cabins : user can view all the available cabins,edit them,add new cabins,filter them and can even delete them.
+
 5)Creating a new user : Authenticated users can create new users( completely logical as you can't just have anyone managing the hotel data).
+
 6)Updating User data : User can update the user data.
+
 7)Viewing and editing the hotel settings : user can view the exisiting hotel settings and can edit them.
+
 8)Dark Mode Toggle : user can toggle between dark and light mode.
+
 9)Logging out : After the user is finished working with the application,he/she can logout.
+
 
 ## Project link
 
